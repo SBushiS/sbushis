@@ -4,14 +4,9 @@
 ### Language and Tools
 
 
-![HTML](https://img.shields.io/badge/-HTML-e44d26?style=for-the-badge&logo=HTML5&logocolor=ffffff)
-
-
-![HTML](https://img.shields.io/static/v1?label=&message=HTML5&color=e44d26?style=for-the-badge&logo=HTML5)
-![Flutter](https://img.shields.io/static/v1?label=&message=CSS3&color=1799ea?style=for-the-badge&logo=CSS3)
-![Flutter](https://img.shields.io/static/v1?label=&message=JavaScript&color=f3cb37?style=for-the-badge&logo=JavaScript)
-![Flutter](https://img.shields.io/static/v1?label=&message=SQL&color=2177bc?style=social&logo=SQL)
-
-
+![HTML5](https://img.shields.io/badge/-HTML5-e44d26?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1799ea?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f3cb37?style=for-the-badge&logo=HTML5&logoColor=ffffff)
+![SQL](https://img.shields.io/badge/-SQL-2178bb?style=for-the-badge&logo=mySql&logoColor=ffffff)
 
 
